@@ -1,0 +1,33 @@
+{
+    "window.zoomLevel": 2,
+    "sublimeTextKeymap.promptV3Features": true,
+    "files.autoSave": "afterDelay",
+    "extensions.ignoreRecommendations": true,
+    "editor.renderWhitespace": "none",
+    "files.associations": {
+        "*.haml": "html",
+        "*.graphql": "groovy"
+    },
+    "linter_codeclimate": true,
+    "terminal.integrated.rendererType": "dom",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cSpell.userWords": [
+        "markdownify",
+        "serviceinnovationlab",
+        "styleguide"
+    ],
+    "diffEditor.ignoreTrimWhitespace": true,
+    "linter_codeclimate.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Cobalt2",
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "prettier.semi": false,
+    "autoimport.useSemiColon": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "taichi.react-beautify"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    }
+}
